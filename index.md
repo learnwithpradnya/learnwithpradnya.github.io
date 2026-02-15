@@ -24,4 +24,11 @@ CI/CD pipelines, and cloud governance best practices.
 
 ## Availability
 
-Open to relocation within the European Union and visa sponsorship opportunities.
+## Availability
+
+Open to relocation across the European Union and visa sponsorship opportunities.
+
+Available for remote interviews across EU time zones.
+
+
+[⬇ Download Resume](assets/resume/Pradnya-Deshpande-Resume.pdf){: .btn .btn-primary target="_blank"}
