@@ -3,10 +3,17 @@ title: Contact
 nav_order: 6
 ---
 
-GitHub: https://github.com/learnwithpradnya 
-LinkedIn: https://linkedin.com/in/learnwithpradnya
-Gmail: pradnyadesh10@gmail.com
+<p>
+  <i class="fab fa-github"></i>
+  <a href="https://github.com/learnwithpradnya" target="_blank">GitHub</a>
+</p>
 
-Open to relocation across the European Union and visa sponsorship opportunities.
+<p>
+  <i class="fab fa-linkedin"></i>
+  <a href="https://www.linkedin.com/in/learnwithpradnya" target="_blank">LinkedIn</a>
+</p>
 
-Available for remote interviews across EU time zones.
+<p>
+  <i class="fas fa-envelope"></i>
+  <a href="mailto:pradnyadesh10@gmail.com">Gmail</a>
+</p>
