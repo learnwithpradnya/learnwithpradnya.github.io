@@ -6,3 +6,6 @@ url: "https://learnwithpradnya.github.io"
 
 aux_links:
   GitHub: https://github.com/learnwithpradnya
+
+just_the_docs:
+  navigation_depth: 2
