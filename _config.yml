@@ -1,8 +1,12 @@
 title: Pradnya Deshpande
 description: Azure Cloud & DevOps Engineer
-theme: just-the-docs
 
 url: "https://learnwithpradnya.github.io"
+
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
 
 aux_links:
   GitHub: https://github.com/learnwithpradnya
