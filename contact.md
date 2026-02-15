@@ -1,12 +1,12 @@
----
-title: Contact
-nav_order: 6
----
-
 <link rel="stylesheet"
 href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
-<div style="margin-top:30px; font-size:20px; line-height:2.4;">
+<p><strong>Let’s Connect</strong><br>
+You can reach me directly through LinkedIn or email — I’d be happy to connect.</p>
+
+<hr>
+
+<div style="margin-top:20px; font-size:20px; line-height:2.4;">
 
   <p>
     <i class="fab fa-github" style="width:35px; font-size:22px;"></i>
@@ -37,4 +37,3 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
 🌍 Open to relocation across the European Union with visa sponsorship opportunities.<br>
 🕒 Available for remote interviews across EU time zones.
 </p>
-
