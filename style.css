@@ -1,0 +1,21 @@
+body {
+    font-family: Arial;
+    margin: 40px;
+    background: #f4f6f8;
+    color: #333;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    color: #0078D4;
+}
+
+section {
+    background: white;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 8px;
+}
